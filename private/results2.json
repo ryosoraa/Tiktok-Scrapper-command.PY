@@ -1,5 +1,5 @@
 {
-  "desc": "makk aku jadi animee🤩",
+  "captions": "makk aku jadi animee🤩",
   "url": "https://t.tiktok.com/i18n/share/video/7170139292767882522/?_d=0&comment_author_id=6838487455625479169&mid=7157599449395496962&preview_pb=0&region=ID&share_comment_id=7310977412674093829&share_item_id=7170139292767882522&sharer_language=en&source=h5_t&u_code=0",
   "total_command": 7,
   "hastags": [
@@ -24,7 +24,23 @@
       "nickname": "rehan",
       "comment": "bagus",
       "reply_comment_total": 3,
-      "reply_comment": []
+      "reply_comment": [
+        {
+          "username": "ryo.syntax",
+          "nickname": "Bukan Rio",
+          "comment": "good game"
+        },
+        {
+          "username": "user760722966",
+          "nickname": "rehan",
+          "comment": "hehe"
+        },
+        {
+          "username": "user760722966",
+          "nickname": "rehan",
+          "comment": "test"
+        }
+      ]
     },
     {
       "uid": "7144578585952912386",
@@ -32,7 +48,13 @@
       "nickname": "アルジュナ",
       "comment": "mas rio",
       "reply_comment_total": 1,
-      "reply_comment": []
+      "reply_comment": [
+        {
+          "username": "user760722966",
+          "nickname": "rehan",
+          "comment": "hehehe"
+        }
+      ]
     }
   ]
 }
